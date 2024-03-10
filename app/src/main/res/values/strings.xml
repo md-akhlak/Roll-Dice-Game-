@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Roll Dice</string>
+    <string name="roll_dice">Player 1</string>
+    <string name="dice_image">Dice_image</string>
+    <string name="Player_2">TextView</string>
+    <string name="player_1">TextView</string>
+    <string name="winner_congrat">TextView</string>
+    <dimen name="margin_top">130dp</dimen>
+</resources>
